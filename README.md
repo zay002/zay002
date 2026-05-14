@@ -29,15 +29,15 @@ I am an **M.Sc. student in Computer Science and Technology** at the School of Co
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zay002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=zay002&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img alt="Li Zhaoyang's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zay002&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=zay002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=zay002&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img alt="Li Zhaoyang's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zay002&show_icons=true&theme=default&hide_border=true&count_private=true" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zay002&layout=compact&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zay002&layout=compact&theme=default&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zay002&layout=compact&theme=default&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zay002&layout=compact&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zay002&layout=compact&theme=default&hide_border=true" />
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zay002&layout=compact&theme=default&hide_border=true" />
 </picture>
 
 </div>
