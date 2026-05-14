@@ -122,42 +122,12 @@ mindmap
 
 ## Build Surface
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Research
-
-`Deep Learning`  
-`Multimodal Learning`  
-`3D Perception`  
-`Point Cloud Understanding`  
-`Robotics`  
-`Embodied AI`
-
-</td>
-<td width="33%" valign="top">
-
-### Engineering
-
-`Python` `C++` `CUDA`  
-`TypeScript` `JavaScript`  
-`MATLAB` `SQL` `Bash`  
-`Git` `GitHub Pages`
-
-</td>
-<td width="33%" valign="top">
-
-### Workflow
-
-`Codex` `Claude Code`  
-`Agentic Coding`  
-`Fast Iteration`  
-`Paper → Prototype → Demo`
-
-</td>
-</tr>
-</table>
+| Surface | Keywords |
+|:--|:--|
+| **Research** | `Deep Learning` `Multimodal Learning` `3D Perception` `Point Cloud Understanding` `Robotics` `Embodied AI` |
+| **Engineering** | `Python` `C++` `CUDA` `TypeScript` `JavaScript` `MATLAB` `SQL` `Bash` |
+| **Workflow** | `Codex` `Claude Code` `Agentic Coding` `Fast Iteration` `Paper -> Prototype -> Demo` |
+| **Interests** | `Algorithm Engineering` `Quantitative Research` `Game Technology` |
 
 ---
 
@@ -184,39 +154,6 @@ mindmap
 </picture>
 
 </div>
-
----
-
-## Timeline
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 2025-present
-
-**Southwest Jiaotong University**  
-M.Sc. in Computer Science and Technology
-
-</td>
-<td width="33%" valign="top">
-
-### 2022-2025
-
-**Centrale Mediterranee**  
-Generalist engineering training
-
-</td>
-<td width="33%" valign="top">
-
-### 2020-2022
-
-**Southwest Jiaotong University**  
-Electronic Information Engineering
-
-</td>
-</tr>
-</table>
 
 ---
 
