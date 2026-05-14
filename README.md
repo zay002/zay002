@@ -55,7 +55,7 @@ I work on systems that connect **visual representations** with **3D geometric un
 | Channel | Link |
 |:--|:--|
 | Homepage | [zay002.github.io](https://zay002.github.io/) |
-| Scholar | [Li Zhaoyang](https://scholar.google.com/citations?user=nxnkG4IAAAAJ) |
+| Scholar | [Zhaoyang Li](https://scholar.google.com/citations?user=nxnkG4IAAAAJ) |
 | Hugging Face | [Zli002](https://huggingface.co/Zli002) |
 | LinkedIn | [Zhaoyang Li](https://www.linkedin.com/in/zhaoyang-li-62b113240) |
 | Email | [lzy11@my.swjtu.edu.cn](mailto:lzy11@my.swjtu.edu.cn) |
