@@ -4,7 +4,7 @@
 
 # Li Zhaoyang
 
-### Computer Science · 3D Perception · Multimodal Learning · Robotics
+### 3D Perception · Multimodal Learning · Robotics
 
 <p>
   <a href="https://zay002.github.io/">
@@ -35,21 +35,6 @@
 <tr>
 <td width="62%" valign="top">
 
-## Current Signal
-
-```text
-status      M.Sc. student @ Southwest Jiaotong University
-focus       2D-3D bridging · point cloud completion · 3D perception
-paper       SplAttN · ICML 2026 Spotlight
-workflow    Codex + Claude Code + Python/C++/CUDA
-looking     internship opportunities
-```
-
-I work on systems that connect **visual representations** with **3D geometric understanding**. My current research sits around point clouds, multimodal learning, robotics, and embodied AI.
-
-</td>
-<td width="38%" valign="top">
-
 ## Quick Links
 
 | Channel | Link |
@@ -72,7 +57,7 @@ I work on systems that connect **visual representations** with **3D geometric un
 <tr>
 <td width="50%" valign="top">
 
-### Spotlight Paper
+### Papers
 
 **SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion**
 
@@ -161,7 +146,7 @@ mindmap
 
 ### Looking for internship opportunities
 
-Algorithm engineering · Quantitative research · Game technology · 3D perception
+Algorithm engineering · Game technology · 3D perception
 
 <br>
 
@@ -170,7 +155,5 @@ Algorithm engineering · Quantitative research · Game technology · 3D percepti
 </a>
 
 <br><br>
-
-<sub>Last updated: May 14, 2026</sub>
 
 </div>
