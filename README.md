@@ -92,7 +92,7 @@ mindmap
 | **Research** | `Deep Learning` `Multimodal Learning` `3D Perception` `Point Cloud Understanding` `Robotics` `Embodied AI` |
 | **Engineering** | `Python` `C++` `CUDA` `TypeScript` `JavaScript` `MATLAB` `SQL` `Bash` |
 | **Workflow** | `Codex` `Claude Code` `Agentic Coding` `Fast Iteration` `Paper -> Prototype -> Demo` |
-| **Interests** | `Algorithm Engineering` `Quantitative Research` `Game Technology` |
+| **Interests** | `Algorithm Engineering` `Game Technology` |
 
 ---
 
