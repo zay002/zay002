@@ -4,7 +4,7 @@
 
 # Li Zhaoyang
 
-### 3D Perception · Multimodal Learning · Robotics
+### 3D Perception · Multimodal Learning · Generative AI · Robotics
 
 <p>
   <a href="https://zay002.github.io/">
@@ -20,10 +20,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Zhaoyang%20Li-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<sub>
-  I build perception systems that connect geometry, learning, and action.
-</sub>
 
 <br><br>
 
@@ -124,10 +120,8 @@ mindmap
 
 <div align="center">
 
-### Looking for internship opportunities
-
-Algorithm engineering · Game technology · 3D perception
-
+### Open for internship opportunities
+If you are looking for a PhD with polytalent engineering basis.
 <br>
 
 <a href="mailto:lzy11@my.swjtu.edu.cn">
