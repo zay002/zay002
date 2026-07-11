@@ -119,7 +119,8 @@ mindmap
 ---
 
 <div align="center">
-
+  
+## Open for PhD opportunities
 ### Open for internship opportunities
 If you are looking for a PhD with polytalent engineering basis.
 <br>
