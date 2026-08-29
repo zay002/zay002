@@ -4,7 +4,7 @@
 
 # Li Zhaoyang
 
-### 3D Perception · Multimodal Learning · Generative AI · Robotics
+### 3D Perception · Multimodal Feature Alignment · Robotics
 
 <p>
   <a href="https://zay002.github.io/">
