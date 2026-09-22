@@ -92,21 +92,6 @@ mindmap
 
 ---
 
-## GitHub Pulse
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zay002&theme=tokyo-night&hide_border=true&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zay002&theme=react&hide_border=true&area=true" />
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zay002&theme=react&hide_border=true&area=true" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
 
 <a href="mailto:lzy11@my.swjtu.edu.cn">
   <img src="https://img.shields.io/badge/Contact-lzy11%40my.swjtu.edu.cn-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
