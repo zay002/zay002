@@ -94,7 +94,10 @@ mindmap
 
 
 <a href="mailto:lzy11@my.swjtu.edu.cn">
-  <img src="https://img.shields.io/badge/Contact-lzy11%40my.swjtu.edu.cn-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Contact-lzy11%40my.swjtu.edu.cn-2563EB?style=for-the-badge&logo=gmail&logoColor=pink" alt="Email">
+</a>
+<a href="mailto:zhaoyang.li@centrale-med.fr">
+  <img src="https://img.shields.io/badge/Contact-zhaoyang.li%40centrale--med.fr-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
