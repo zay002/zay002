@@ -1,105 +1,39 @@
-<div align="center">
-
-<br>
+ <div align="center">
 
 # Li Zhaoyang
 
-### 3D Perception · Multimodal Feature Alignment · Robotics
+**3D Perception · Multimodal Learning · Robotics**
 
-<p>
-  <a href="https://zay002.github.io/">
-    <img src="https://img.shields.io/badge/Homepage-zay002.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Homepage">
-  </a>
-  <a href="https://scholar.google.com/citations?user=nxnkG4IAAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Li%20Zhaoyang-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="https://huggingface.co/Zli002">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Zli002-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Hugging Face">
-  </a>
-  <a href="https://www.linkedin.com/in/zhaoyang-li-62b113240">
-    <img src="https://img.shields.io/badge/LinkedIn-Zhaoyang%20Li-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<br><br>
+[Homepage](https://zay002.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=nxnkG4IAAAAJ) · [Hugging Face](https://huggingface.co/Zli002) · [LinkedIn](https://www.linkedin.com/in/zhaoyang-li-62b113240)
 
 </div>
 
----
+### About
 
-## Research Dashboard
+I work on **3D perception**, **multimodal representation learning**, and **robotics**, with an interest in bridging visual understanding and physical interaction.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+My research explores how geometric structures and visual features can be integrated to enable more robust spatial understanding.
 
-### Papers
+### Featured Research
 
-**SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion**
+**[SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](https://arxiv.org/abs/2605.01466)**
 
-Accepted to **ICML 2026** as a **Spotlight** paper.
+**ICML 2026 · Spotlight**
 
-This project explores how 2D visual cues and 3D geometric structure can communicate more effectively for point cloud completion.
+Bridging 2D visual features and 3D geometric representations through differentiable Gaussian soft splatting and attention for point cloud completion.
 
-<p>
-  <a href="https://arxiv.org/abs/2605.01466">
-    <img src="https://img.shields.io/badge/arXiv-2605.01466-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv">
-  </a>
-  <a href="https://icml.cc/virtual/2026/poster/60900">
-    <img src="https://img.shields.io/badge/ICML%202026-Spotlight-0F766E?style=flat-square" alt="ICML 2026 Spotlight">
-  </a>
-  <a href="https://github.com/zay002/SplAttN-Public">
-    <img src="https://img.shields.io/badge/Code-SplAttN--Public-111827?style=flat-square&logo=github&logoColor=white" alt="Code">
-  </a>
-</p>
+[Paper](https://arxiv.org/abs/2605.01466) · [Code](https://github.com/zay002/SplAttN-Public) · [ICML](https://icml.cc/virtual/2026/poster/60900)
 
-</td>
-<td width="50%" valign="top">
+### Research & Engineering
 
-### Research Compass
+**Research:** 3D Perception · Point Cloud Understanding · Multimodal Learning · Embodied AI
 
-```mermaid
-mindmap
-  root((3D Intelligence))
-    Point Clouds
-      Completion
-      Registration
-      Geometry
-    Multimodal Learning
-      2D-3D Bridging
-      Attention
-      Representation
-    Robotics
-      Perception
-      Spatial Reasoning
-      Embodied AI
-```
-
-</td>
-</tr>
-</table>
+**Engineering:** Python · C++ · CUDA · TypeScript · PyTorch · ROS 2
 
 ---
 
-## Build Surface
+<div align="center">
 
-| Surface | Keywords |
-|:--|:--|
-| **Research** | `Deep Learning` `Multimodal Learning` `3D Perception` `Point Cloud Understanding` `Robotics` `Embodied AI` |
-| **Engineering** | `Python` `C++` `CUDA` `TypeScript` `JavaScript` `MATLAB` `SQL` `Bash` |
-| **Workflow** | `Codex` `Claude Code` `Agentic Coding` `Fast Iteration` `Paper -> Prototype -> Demo` |
-| **Interests** | `Algorithm Engineering` `Game Technology` |
-
----
-
-
-<a href="mailto:lzy11@my.swjtu.edu.cn">
-  <img src="https://img.shields.io/badge/Contact-lzy11%40my.swjtu.edu.cn-2563EB?style=for-the-badge&logo=gmail&logoColor=pink" alt="Email">
-</a>
-<a href="mailto:zhaoyang.li@centrale-med.fr">
-  <img src="https://img.shields.io/badge/Contact-zhaoyang.li%40centrale--med.fr-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
+[Email](mailto:lzy11@my.swjtu.edu.cn) · [Academic Email](mailto:zhaoyang.li@centrale-med.fr)
 
 </div>
